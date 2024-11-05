@@ -10,7 +10,7 @@ def retrieve_messages(channelid, max_lim, stop_value):
     max_num = max_lim
     limit = 1
     headers = {
-        'authorization': 'MjE2ODM0NzkyMDQwMzAwNTQ0.GJ_D-p.m9nZs-lWch-POaSKQMVETKmVW474XvDghYK6N4'
+        'authorization': 'PERSONAL TOKEN'
     }
     last_message_id = None
     while num<max_num:
